@@ -1,0 +1,1 @@
+# Visor-QT-Tesseract-OCR-Linux-messy-code
